@@ -1,3 +1,3 @@
 # background-generator
 
-This is a simple background generator written in plain JavaScript. It generates different gradients for the background by licking on the Generate Button.
+This is a simple background generator written in plain JavaScript. It generates different gradients for the background by klicking on the Generate Button.
